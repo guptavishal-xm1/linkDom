@@ -5,7 +5,7 @@ import com.linkdom.repo.userRepo;
 import org.springframework.stereotype.Service;
 
 @Service
-public class userServices {
+public class userServices { // service class for user entity
     final userRepo repo;
 
 

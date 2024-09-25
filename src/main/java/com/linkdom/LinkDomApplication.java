@@ -9,6 +9,7 @@ import java.util.UUID;
 public class LinkDomApplication {
 
     public static void main(String[] args) {
+    
         SpringApplication.run(LinkDomApplication.class, args);
     }
 
